@@ -34,13 +34,13 @@
 - Безопасность манифестов (manifests)
 - Безопасность контейнеров в рантайм (container)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/16a4d000-9536-472b-abed-b54b7dd52e15/fa5bd02e-ac5b-40ea-9da2-04337a5af69b/image.png)
+![image.png](https://github.com/Jet-Security-Team/Jet-Container-Security-Framework/blob/main/images/5abstracts.png)
 
 На каждом уровне абстракции нужно выполнять определенный набор действий (контролей). Некоторые из контролей (например, управление события безопасности или управление секретами) могут выполняться в нескольких абстракциях (но разными способами и\или инструментами). 
 
 В свою очередь, каждый из контролей состоит из набора практик (задач), которые необходимо выполнять на том или ином этапе зрелости компании (и процессов защиты контейнерной инфраструктуры). 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/16a4d000-9536-472b-abed-b54b7dd52e15/ccba002b-e97c-4581-9dff-f3eeab1e91b9/image.png)
+![image.png](https://github.com/Jet-Security-Team/Jet-Container-Security-Framework/blob/main/images/controls.png)
 
 Именно такую структуру (абстракция - контроль - практика) с наложенными уровнями зрелости (Beginners - L1, Intermediate - L2, Advanced - L3, Experts - L4) на каждую практику и предлагает JCSF.
 
