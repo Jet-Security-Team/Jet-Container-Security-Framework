@@ -42,7 +42,13 @@
 
 ![image.png](https://github.com/Jet-Security-Team/Jet-Container-Security-Framework/blob/main/images/controls1.png)
 
-Именно такую структуру (домены - контроли - практики) с наложенными уровнями зрелости (Beginners - L1, Intermediate - L2, Advanced - L3, Experts - L4) на каждую практику и предлагает JCSF.
+Для определения уровня зрелости в рамках домена, используются уровни зрелости JCSF:
+
+- Uninitiated - L0;
+- Beginners - L1;
+- Intermediate - L2;
+- Advanced - L3;
+- Experts - L4
 
 ### Графические результаты
 
