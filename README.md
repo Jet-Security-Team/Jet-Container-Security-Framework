@@ -81,14 +81,12 @@
 
 Для создания фреймворка были проанализированы и использованы следующие материалы:
 
-- Международные лучшие практики:
 - Практики от Center for Internet Security (CIS):
     - [CIS Software Supply Chain Security Guide](https://www.cisecurity.org/insights/white-papers/cis-software-supply-chain-security-guide);
     - [CIS GitHub Benchmark](https://www.cisecurity.org/insights/blog/cis-benchmarks-february-2023-update);
     - [NIST Application Container Security Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-190.pdf);
     - [ФСТЭК России №118](https://fstec.ru/dokumenty/vse-dokumenty/prikazy/prikaz-fstek-rossii-ot-16-iyunya-2023-g-n-118);
     - [NSA Kubernetes hardening guideline](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/).
-- Best practices:
+- Лучшие практики:
     - Aqua Cloud Native Security Maturity Model
 - Наш опыт, а также опыт наших заказчиков.
-![image](https://github.com/Jet-Security-Team/Jet-Container-Security-Framework/blob/main/images/398951626-fd47b785-1144-469d-b2b7-6d1aae0290b4.png)
