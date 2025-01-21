@@ -90,3 +90,5 @@
 - Лучшие практики:
     - Aqua Cloud Native Security Maturity Model
 - Наш опыт, а также опыт наших заказчиков.
+
+Почта для связи с нами dso@jet.su
