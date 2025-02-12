@@ -83,9 +83,9 @@
 
 - Практики от Center for Internet Security (CIS):
     - [CIS Software Supply Chain Security Guide](https://www.cisecurity.org/insights/white-papers/cis-software-supply-chain-security-guide);
-    - [CIS GitHub Benchmark](https://www.cisecurity.org/insights/blog/cis-benchmarks-february-2023-update);
+    - [CIS Kubernetes, CIS Docker Benchmark](https://www.cisecurity.org/insights/blog/cis-benchmarks-february-2023-update);
     - [NIST Application Container Security Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-190.pdf);
-    - [ФСТЭК России №118](https://fstec.ru/dokumenty/vse-dokumenty/prikazy/prikaz-fstek-rossii-ot-16-iyunya-2023-g-n-118);
+    - [ФСТЭК России №118](https://fstec.ru/dokumenty/vse-dokumenty/spetsialnye-normativnye-dokumenty/trebovaniya-po-bezopasnosti-informatsii-utverzhdeny-prikazom-fstek-rossii-ot-4-iyulya-2022-g-n-118);
     - [NSA Kubernetes hardening guideline](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/).
 - Лучшие практики:
     - Aqua Cloud Native Security Maturity Model
